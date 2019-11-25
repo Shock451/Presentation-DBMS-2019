@@ -1,0 +1,3 @@
+CGI (Common Gateway Interface) was the first specification established for the development of dynamic content in a web server.
+
+With CGI, the content delivered to users is not static HTML code read from a file in the server, but dynamic content generated in a script that can extract information from a database, adapt the content to the type of browser making the request, the preferred language, whether it is a new user or not, etc.
